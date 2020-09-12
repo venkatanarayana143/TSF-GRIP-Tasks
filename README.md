@@ -1,5 +1,3 @@
-# TSF-GRIP-Tasks
-
 # TSF-Internship-Tasks
 A very warm welcome to all those who are here! This repo contains all the tasks which has been done by me during my internhsip under [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
 
